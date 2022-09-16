@@ -26,7 +26,8 @@ Extras:
 
 ### Muestra
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VQHOUQey8Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Alt text](https://img.youtube.com/vi/VQHOUQey8Ho/0.jpg)]
+(https://www.youtube.com/watch?v=VQHOUQey8Ho)
 
 
 
