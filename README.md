@@ -24,10 +24,9 @@ Extras:
 
 
 
-### Muestra
+### Muestra de funcionamiento
 
-[![Alt text](https://img.youtube.com/vi/VQHOUQey8Ho/0.jpg)]
-(https://www.youtube.com/watch?v=VQHOUQey8Ho)
+https://www.youtube.com/watch?v=VQHOUQey8Ho
 
 
 
