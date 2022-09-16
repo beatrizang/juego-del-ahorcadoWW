@@ -24,15 +24,15 @@ Extras:
 
 
 
-### Screenshots
+### Muestra
 
-![](img/screen/AHORCADITO.mp4)
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/VQHOUQey8Ho" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 
 
 ### Links
 
-- Página URL:
+- Página URL: https://beatrizang.github.io/juego-del-ahorcadoWW/
 
 
 ### Construido con
